@@ -1,5 +1,4 @@
-let firstname = "Vuqar"
-let lastname = "Rustemli"
-console.log(lastname + firstname);
-
-
+fullName = input("Vuqar Rustemli")
+main = fullName.split()
+initials = words[0][0] + words[1][0]
+console.log(initials)
