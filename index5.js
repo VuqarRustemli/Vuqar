@@ -1,2 +1,2 @@
 let text = "Salam, dunya"
-text.includes("dunya")
+console.log("Salam, dunya".text.includes("dunya"));
