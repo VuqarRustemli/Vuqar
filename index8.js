@@ -8,5 +8,4 @@ replaceAll("t", "####")
 
 let a = 12345
 let b = 98765
-let total = a * b;
-console.log(total);
+console.log(String(a * b)[5]);
